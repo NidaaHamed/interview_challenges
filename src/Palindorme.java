@@ -23,10 +23,10 @@ public class Palindorme {
     }
     public static void main(String[] args) {
         String s1 = "redivider";
-        String s2 = "deified";
+        String s2 = "mad";
         String s3 = "civic";
         String s4 = "wifi";
-        String s5 = "reviver";
+        String s5 = "swims";
         String s6 = "racecar";
 
 //        System.out.println(palindromeCheckerTraditional(s1));
