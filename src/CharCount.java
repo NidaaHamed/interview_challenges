@@ -39,7 +39,7 @@ public class CharCount {
 
     }
     public static void main(String[] args) {
-        String s1 = "Hello";
+        String s1 = "HellO";
         String s2 = "there is a quiet Mouse";
         String s3 = "I am so happy      ";
 
