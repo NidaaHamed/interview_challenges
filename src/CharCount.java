@@ -41,7 +41,7 @@ public class CharCount {
     public static void main(String[] args) {
         String s1 = "Hello";
         String s2 = "there is a quiet Mouse";
-        String s3 = "I am happy      ";
+        String s3 = "I am so happy      ";
 
         findNumberOfVowelsAndConsonants(s1);
         findNumberOfVowelsAndConsonants(s2);
